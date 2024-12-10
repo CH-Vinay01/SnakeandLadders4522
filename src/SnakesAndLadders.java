@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface SnakesAndLadders {
+public interface SnakesAndLadders {
+    public int jump(int n);
+    public String isWhat(int n);
 }
